@@ -15,7 +15,7 @@ Wir werden einige visuelle Elemente aus dem Spiel teilen, wie beispielsweise Kon
 ### Spielentwicklung: 
 Wenn du an der Entwicklung des Spiels interessiert bist, findest du hier möglicherweise Dateien, die mit dem Code, dem Spieldesign oder anderen technischen Aspekten des Spiels zusammenhängen.
 
-
+/n
 
 Wir sind bemüht, den Spagat zwischen dem Teilen spannender Informationen und dem Bewahren der Überraschung zu schaffen. Bitte beachte, dass wir keine entscheidenden Spoiler oder zu viele Einzelheiten veröffentlichen werden. Unser Ziel ist es, die Vorfreude auf das Spiel zu steigern, ohne die Spielererfahrung zu beeinträchtigen.
 
